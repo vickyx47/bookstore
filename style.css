@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color:#F9E4BC;
+}
+.navbar ul li a{
+    font-size: 20px;
+    font-weight: 550;
+    color: black;
+
+}
+.center{
+    font-size:40px;
+
+
+}
+.bigbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url(./book.jpg);
+    color: rgb(17, 16, 16);
+   
+}
+.small{
+    font-size: small;
+}
+div.cover{
+    height: 100vh;
+  background-color: #e6cb9b;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.one{
+    background-color: #f5e9d4;
+    height:250px;
+    width:180px;
+    margin: 10px 30px;
+    padding: 6px;
+}
+.image{
+    height: 250px;
+    width: 180px;
+    border: 5px solid black;
+
+}
+#one{
+    background-image: url(./img/1.jpg);
+}
+
+#two{
+    background-image: url(./img/2.jpg);
+}
+#three{
+    background-image: url(./img/3.jpg);
+}
+
+#four{
+    background-image: url(./img/4.jpg);
+}
+
+#five{
+    background-image: url(./img/5.jpg);
+}
+
+#six{
+    background-image: url(./img/6.jpg);
+}
+#seven{
+    background-image: url(./img/7.jpg);
+}
+#eight{
+    background-image: url(./img/8.jpg);
+}
+#nine{
+    background-image: url(./img/9.jpg);
+}
+
